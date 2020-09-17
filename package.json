@@ -1,27 +1,23 @@
 {
-  "name": "daledale",
+  "name": "seuarmando",
   "version": "1.0.0",
-  "description": "Dale dale dale dale pqp",
+  "description": "SEU ARMANDO EU TO DESDE DAS 5 E 45 DA MANHA",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/anabastos/daledale.git"
+    "url": "git+ssh://git@github.com/Doges/seuarmando.git"
   },
   "keywords": [
-    "daledale"
+    "seuarmando"
   ],
-  "author": "AnaBastos",
+  "author": "Doges -- Thanks to Ana",
   "license": "MIT",
   "bin": {
     "daledale": "./index.js"
   },
-  "bugs": {
-    "url": "https://github.com/anabastos/daledale/issues"
-  },
-  "homepage": "https://github.com/anabastos/daledale#readme",
   "dependencies": {
     "ramda": "^0.26.1"
   }
