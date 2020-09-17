@@ -1,10 +1,6 @@
-# DaleDale Command Line Sound
+#SEU ARMANDO
 
-<div style="text-align: center">
-    <img src="./daledale.jpg" height="300"/>
-</div>
-
-> Dale dale dale dale PQP! 
+já sabe né
 
 ## Compatibility
 
@@ -15,23 +11,23 @@
 ## Installing
 Install globally:
 
-    npm install -g daledale
+    npm install -g seuarmando
 
 ## Running
 Run command:
 
-    daledale
+    seuarmando
 
 Or import in NodeJS script:
 
-    import daledale from 'daledale';
+    import seuarmando from 'seuarmando';
 
-    daledale();
+    seuarmando();
     
 ## Running with [npx](https://www.npmjs.com/package/npx)
 Run command:
 
-    npx daledale
+    npx seuarmando
 
 
 ## See also
